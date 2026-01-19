@@ -254,5 +254,5 @@ daily_stock_analysis/
 
 <div align="center">
   <img src="./sources/wechatpay.jpg" alt="WeChat Pay" width="200" style="margin-right: 20px;">
-  <img src="./sources/alipay.jpg" alt="Alipay" width="200">
+<!--  <img src="./sources/alipay.jpg" alt="Alipay" width="200"> -->
 </div>
