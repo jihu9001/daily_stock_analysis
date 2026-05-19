@@ -19,7 +19,7 @@
 - **多渠道推送** - 支持企业微信、飞书、Telegram、邮件（自动识别）
 - **零成本部署** - GitHub Actions 免费运行，无需服务器
 - **💰 白嫖 Gemini API** - Google AI Studio 提供免费额度，个人使用完全够用
-- **🔄 多模型支持** - 支持 OpenAI 兼容 API（DeepSeek、通义千问等）作为备选
+- **🔄 多模型支持** - 支持 OpenAI 兼容 API（DeepSeek、通义千问等）作为备选。
 
 ### 📊 数据来源
 - **行情数据**: AkShare（免费）、Tushare、Baostock、YFinance
